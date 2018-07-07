@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Sanket Sudake</title>
-    <link>https://ssudake.com/categories/</link>
-    <description>Recent content in Categories on Sanket Sudake</description>
+    <title>Posts on Sanket Sudake</title>
+    <link>https://ssudake.com/posts/</link>
+    <description>Recent content in Posts on Sanket Sudake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy;2018 - Sanket Sudake</copyright>
     
-	<atom:link href="https://ssudake.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ssudake.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

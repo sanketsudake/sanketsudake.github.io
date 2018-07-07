@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ssudake.com/categories/</loc>
+    <loc>https://ssudake.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/talks/</loc>
+    <lastmod>2018-07-07T19:21:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/about/</loc>
+    <lastmod>2018-07-07T19:13:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ssudake.com/</loc>
+    <loc>https://ssudake.com/</loc>
+    <lastmod>2018-07-07T19:21:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ssudake.com/tags/</loc>
+    <loc>https://ssudake.com/tags/</loc>
     <priority>0</priority>
   </url>
   
