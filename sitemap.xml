@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ssudake.com/</loc>
+    <lastmod>2020-02-22T11:10:17+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/talks/</loc>
+    <lastmod>2020-02-22T11:10:17+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ssudake.com/about/</loc>
     <lastmod>2018-07-07T19:13:17+05:30</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,26 +24,56 @@
   </url>
   
   <url>
-    <loc>https://ssudake.com/</loc>
-    <lastmod>2018-07-07T19:13:17+05:30</lastmod>
+    <loc>https://ssudake.com/tags/kubeflow/</loc>
+    <lastmod>2018-05-29T14:22:26+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ssudake.com/categories/</loc>
+    <loc>https://ssudake.com/posts/kubeflow-kubernetes/</loc>
+    <lastmod>2018-05-29T14:22:26+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/tags/kubernetes/</loc>
+    <lastmod>2018-05-29T14:22:26+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ssudake.com/posts/</loc>
+    <lastmod>2018-05-29T14:22:26+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://ssudake.com/tags/</loc>
+    <lastmod>2018-05-29T14:22:26+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/tags/virtual-kubelet/</loc>
+    <lastmod>2018-05-08T14:22:26+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/posts/virtual-kubelet/</loc>
+    <lastmod>2018-05-08T14:22:26+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssudake.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

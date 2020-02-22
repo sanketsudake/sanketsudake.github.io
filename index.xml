@@ -6,11 +6,22 @@
     <description>Recent content on Sanket Sudake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy;2019 - Sanket Sudake</copyright>
-    <lastBuildDate>Sat, 07 Jul 2018 19:13:17 +0530</lastBuildDate>
+    <copyright>Copyright &amp;copy;2020 - Sanket Sudake</copyright>
+    <lastBuildDate>Sat, 22 Feb 2020 11:10:17 +0530</lastBuildDate>
     
 	<atom:link href="https://ssudake.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talks</title>
+      <link>https://ssudake.com/talks/</link>
+      <pubDate>Sat, 22 Feb 2020 11:10:17 +0530</pubDate>
+      
+      <guid>https://ssudake.com/talks/</guid>
+      <description>AWS Community Day Pune 2020 Fun with Fargate and Kubernetes on AWS   
+GopherCon India 2018 Playing with Robots in Golang
+ Presented a hack designed with Ollie, Alexa and Raspberry Pi     Kubernetes Pune Meetup Jun 2018 Virtual Kubelet</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -18,9 +29,25 @@
       <pubDate>Sat, 07 Jul 2018 19:13:17 +0530</pubDate>
       
       <guid>https://ssudake.com/about/</guid>
-      <description>I currently work at InfraCloud Technologies as Technical Lead.
-Previous Positions
- Co-Founder , QuodeIt Software Engineer, Veritas  </description>
+      <description>Current Technical Lead, InfraCloud Technologies  Joined as early engineer, driving cutting edge crazy problems  Previous Positions Co-Founder, QuodeIt Acquired by SproutLogix  Find the best technical talent with its pre-employment skill-based assessments.</description>
+    </item>
+    
+    <item>
+      <title>Kubeflow : Scaling ML with Kubernetes</title>
+      <link>https://ssudake.com/posts/kubeflow-kubernetes/</link>
+      <pubDate>Tue, 29 May 2018 14:22:26 +0530</pubDate>
+      
+      <guid>https://ssudake.com/posts/kubeflow-kubernetes/</guid>
+      <description>https://www.infracloud.io/kubeflow-machine-learning-kubernetes/</description>
+    </item>
+    
+    <item>
+      <title>Virtual Kubelet &amp; New Hybrid World</title>
+      <link>https://ssudake.com/posts/virtual-kubelet/</link>
+      <pubDate>Tue, 08 May 2018 14:22:26 +0530</pubDate>
+      
+      <guid>https://ssudake.com/posts/virtual-kubelet/</guid>
+      <description>https://www.infracloud.io/hybrid-virtual-kubelet/</description>
     </item>
     
   </channel>

@@ -6,10 +6,38 @@
     <description>Recent content in Tags on Sanket Sudake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy;2019 - Sanket Sudake</copyright>
+    <copyright>Copyright &amp;copy;2020 - Sanket Sudake</copyright>
+    <lastBuildDate>Tue, 29 May 2018 14:22:26 +0530</lastBuildDate>
     
 	<atom:link href="https://ssudake.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kubeflow</title>
+      <link>https://ssudake.com/tags/kubeflow/</link>
+      <pubDate>Tue, 29 May 2018 14:22:26 +0530</pubDate>
+      
+      <guid>https://ssudake.com/tags/kubeflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://ssudake.com/tags/kubernetes/</link>
+      <pubDate>Tue, 29 May 2018 14:22:26 +0530</pubDate>
+      
+      <guid>https://ssudake.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual kubelet</title>
+      <link>https://ssudake.com/tags/virtual-kubelet/</link>
+      <pubDate>Tue, 08 May 2018 14:22:26 +0530</pubDate>
+      
+      <guid>https://ssudake.com/tags/virtual-kubelet/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
