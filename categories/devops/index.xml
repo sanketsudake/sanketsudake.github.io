@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kubernetes on Sanket Sudake</title>
-    <link>https://ssudake.com/tags/kubernetes/</link>
-    <description>Recent content in kubernetes on Sanket Sudake</description>
+    <title>devops on Sanket Sudake</title>
+    <link>https://ssudake.com/categories/devops/</link>
+    <description>Recent content in devops on Sanket Sudake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy;2020 - Sanket Sudake</copyright>
-    <lastBuildDate>Tue, 29 May 2018 14:22:26 +0530</lastBuildDate><atom:link href="https://ssudake.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 May 2018 14:22:26 +0530</lastBuildDate><atom:link href="https://ssudake.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubeflow : Scaling ML with Kubernetes</title>
       <link>https://ssudake.com/posts/kubeflow-kubernetes/</link>

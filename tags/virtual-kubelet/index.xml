@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy;2020 - Sanket Sudake</copyright>
-    <lastBuildDate>Tue, 08 May 2018 14:22:26 +0530</lastBuildDate>
-    
-	<atom:link href="https://ssudake.com/tags/virtual-kubelet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 May 2018 14:22:26 +0530</lastBuildDate><atom:link href="https://ssudake.com/tags/virtual-kubelet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual Kubelet &amp; New Hybrid World</title>
       <link>https://ssudake.com/posts/virtual-kubelet/</link>
